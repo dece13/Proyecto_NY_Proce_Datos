@@ -19,8 +19,8 @@ still in progress
 Esté proyecto está creado con:
 * python: 3.9.12
 * Spark
-* R
-* C
+* RandomForestClassifier
+* LinearRegression
 
 ## Setup
 To run this project you need to install these dependencies:
