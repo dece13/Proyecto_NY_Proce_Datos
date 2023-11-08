@@ -5,7 +5,7 @@
 * [Demostración](#demostración)
 * [Tecnologías](#tecnologías)
 * [Setup](#setup)
-* [Licence](#licence)
+* [Licencia](#licencia)
 
 ## Descripción
 
@@ -23,7 +23,7 @@ Esté proyecto está creado con:
 * LinearRegression
 
 ## Setup
-To run this project you need to install these dependencies:
+Para correr este proyecto se necesitan estas dependencias:
 ```
 $ pip install pyspark
 $ pip install regressions
@@ -39,4 +39,7 @@ You need first to clone the repo with the command below
 ```
 $ git clone https://github.com/dece13/Proyecto_NY_Proce_Datos.git
 $ python3 .py
+```
+## Licencia
 
+No hay ninguna licencia 
